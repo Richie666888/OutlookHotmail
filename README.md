@@ -1,6 +1,7 @@
 # 微软邮箱注册机，谷歌邮箱注册机
 微软邮箱注册机，谷歌邮箱注册机
 
+火兔邮箱机器人
 软件截图：
 
 ![image](https://github.com/Richie666888/OutlookHotmail/assets/130349302/d139f9cc-cfda-4f20-80d8-e3045c89157a)
